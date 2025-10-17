@@ -1,0 +1,9 @@
+baths
+bedrooms
+latitude
+longitude
+Area Size
+property_type
+city
+province_name
+Area Category
